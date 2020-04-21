@@ -1,4 +1,4 @@
-## QuestGames
+## Explore the world of Kindom Quest
 
 You can use the [editor on GitHub](https://github.com/EmaRadojcic/QuestGames/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
